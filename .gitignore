@@ -1,5 +1,7 @@
 db.sqlite*
 __pycache__
 migrations
-__pycache__/i
+__pycache__/
+__pychache__/*
 .vscode/
+.vscode/*
